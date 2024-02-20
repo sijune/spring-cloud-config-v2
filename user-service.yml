@@ -3,4 +3,4 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}a01a8086faf6f267e5b176f1f21057f0fdba4a32f1d10c137119cfa448e6af46'
+    password: '{cipher}AYA2imtCH5Jc5XrJpjzld5N8Ooib7lm2H0gMj3qdq8b8AlzjlzXQf6CuP1cPjGlTSEbx9OSr5wyW3YULqCK45gI1rPjreVXxErJC8CImzIGEpoNwsGXwvsAReV+wuEuHHxOFj62nCKpxnF2TjQriBY2xVu1wrQgVP/CjVtzOGK3XKdVSDfQUICNb5L+wvxVE27aYq42LMD3fEIZc3B/FNam7SCLOwT0pySnf3fsw7eWjwpC2Warqbn/Q2hUezaZfuU97lXbGXBVNRhuJ2eZYZCZ73KwfHbq8LHrlbjMeASqTuqRYiZl/GXqQE7S1WySvURTToA9kyZjNvx+l9MlBZ5Yo4Ksr26rWCSZhgjZlDwLUt7z4B2fJmqUbssSfIY1UbDVloRg3iCLaqhgtda0NkeH4LOFr+GoC0Dh/ts3pCV/V7JwagfOzycMDQt0Jb+wV4dvQAllTOCAvz68KmTBuRoituCit2Ix3e/pnfsoMIpmeXLibopsR3mLoXuUxWuS4gI2wjjm8EWLMXlAQANZuoxRkPnwkNAIUa6L0Pa+j5Ze2BA=='
