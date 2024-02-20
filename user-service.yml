@@ -8,3 +8,6 @@ spring:
 token:
   expiration_time: 86400000 # 하루짜리 토큰
   secret: '{cipher}AYB/2Q9uolAbirelMMIHwtFNZC1/uGHnJXzRZamDnR/vJZTjU2pwsnYJOep3FAN7Ir3Y03xrlmh2OCzySMs3UG/n8uc4IxVc+vJsOPYMxl6mZaZK+yer0ktliPTEknV6GSHWqRWtN7RlXqf702RZQRaLSrZskBHqcGYHz2gY8aXgiyUOSjDoymB2oTGRMVyTfL4O6o1LEseGby6jvxQkfWfrV5F7BjNZDFzoWx1wLubbKx7uEF57aK6E2vno6R5MupF+2GSqug8BAAWG1yoP+hwWldmL1rCl6Q3i+YZaLY9woKmv1zW5BPyHkGUphpM7RkaMdoR3Fh9zqVDPpZP+4933UuJ28/Dg8fy0Bc1DN9D1RPjFT4WV1Vta621TzY+FIucNMQaBg/kwnVKCMi2RswubPtCb8q99zxnzxu/+ax5NKPD+1Nmj3KpNJMUv1nlX2OaR4DS09R5Njpn8NLRKW+2Og0fXctPI2hW/oFGm27qzCr6+31fp20tUKRTK68IodjKlEyyaSq3kdXtMqIO7Z2GYLuyNFOytxbdPvbdXfwonjeiRmfEc/f+xV3LA0Ui5fMw='
+
+order_service:
+  url: http://127.0.0.1:8000/order-service/%s/orders
