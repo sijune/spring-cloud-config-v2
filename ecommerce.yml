@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000 # 하루짜리 토큰
-  secret: user_token_commerce
+  expiration_time: 864 # 하루짜리 토큰
+  secret: value1
 
 gateway:
   ip: 192.168.0.8
